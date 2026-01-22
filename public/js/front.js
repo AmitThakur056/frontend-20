@@ -9,7 +9,7 @@ $(function() {
     carousels();
     utils();
 });
-
+      
 
 $(window).load(function() {
     $(this).alignElementsSameHeight();
